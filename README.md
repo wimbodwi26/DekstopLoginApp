@@ -15,7 +15,7 @@ Di sini saya coba bikin form login dengan username & password dan validasi basic
 - Visual Studio Community 2022
 
 ## Cara jalanin
-1. Clone repo:
+1. Clone repo: `git clone https://github.com/wimbodwi26/DekstopLoginApp.git`
 2. Buka file `.slnx` di Visual Studio
 3. Tekan **F5** buat ngejalanin
 

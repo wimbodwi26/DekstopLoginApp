@@ -12,7 +12,7 @@ Di sini saya coba bikin form login dengan username & password dan validasi basic
 ## Tools yang dipakai
 - C# (.NET)
 - Windows Forms
-- Visual Studio Community 2022
+- Visual Studio Community 2026
 
 ## Cara jalanin
 1. Clone repo: `git clone https://github.com/wimbodwi26/DekstopLoginApp.git`
